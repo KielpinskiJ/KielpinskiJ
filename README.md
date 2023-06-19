@@ -25,7 +25,7 @@
 
 | [MyBike](https://github.com/KielpinskiJ/MyBike-landing) | [ToDoApp](https://github.com/KielpinskiJ/todo-app) | [NiceGadgets](https://github.com/fe-feb20-codewizards/product_catalog) |
 | ----------- | ----------- | ----------- |
-| [![MyBike](https://i.ibb.co/0nf882G/MyBike.png)](https://github.com/KielpinskiJ/MyBike-landing) | [![ToDoApp](https://i.ibb.co/SdmJGSd/ToDoApp.png)](https://github.com/KielpinskiJ/todo-app) | [![NiceGadgets](https://i.ibb.co/dWppztJ/Nice-Gadgets.png)](https://github.com/fe-feb20-codewizards/product_catalog) |
+| [![MyBike](./images/MyBike.png)](https://github.com/KielpinskiJ/MyBike-landing) | [![ToDoApp](./images/ToDoApp.png)](https://github.com/KielpinskiJ/todo-app) | [![NiceGadgets](./images/NiceGadgets.png)](https://github.com/fe-feb20-codewizards/product_catalog) |
 
 
 
